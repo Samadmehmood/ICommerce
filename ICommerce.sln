@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICommerce.Contracts", "ICommerce.Contracts\ICommerce.Contracts.csproj", "{71AA17D8-07E0-4AA1-BE83-295174F5DC88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICommerce.Catalog", "ICommerce.Catalog\ICommerce.Catalog.csproj", "{A9A84F06-25D4-403C-A769-364734A7CA21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71AA17D8-07E0-4AA1-BE83-295174F5DC88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71AA17D8-07E0-4AA1-BE83-295174F5DC88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71AA17D8-07E0-4AA1-BE83-295174F5DC88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71AA17D8-07E0-4AA1-BE83-295174F5DC88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9A84F06-25D4-403C-A769-364734A7CA21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9A84F06-25D4-403C-A769-364734A7CA21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9A84F06-25D4-403C-A769-364734A7CA21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9A84F06-25D4-403C-A769-364734A7CA21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
